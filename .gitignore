@@ -9,6 +9,9 @@ models/
 # data folder
 data/
 
+# Virtual environment
+venvCSCN8030/
+
 # C extensions
 *.so
 
